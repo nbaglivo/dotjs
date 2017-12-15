@@ -1,4 +1,4 @@
----?image=http://2015.dotjs.io/images/logos/dotjs/big-logo.png
+---?image=https://www.dotjs.io/static/images/background-header-home-dotcss-2017.jpg
 
 @title[init1]
 
@@ -79,7 +79,7 @@ Software Engineer at LinkedIn.
 
 ## Thomas Watson
 
-![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/trent-willis.png)
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/thomas-watson.png)
 
 Node.js developer at Elastic. Fun with Aircrafts
 [Talk](https://www.dotconferences.com/2017/12/feross-aboukhadijeh-the-most-annoying-website) 
@@ -91,7 +91,8 @@ Node.js developer at Elastic. Fun with Aircrafts
 
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/feross-aboukhadijeh.png)
 
-Founder of WebTorrent, Standard JS & NodeFoo. [Talk](https://www.dotconferences.com/2017/12/feross-aboukhadijeh-the-most-annoying-website) 
+Founder of WebTorrent, Standard JS & NodeFoo.
+[Talk](https://www.dotconferences.com/2017/12/feross-aboukhadijeh-the-most-annoying-website) 
 
 ---
 
