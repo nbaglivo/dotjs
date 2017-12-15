@@ -8,9 +8,9 @@
 
 ## Wes Bos
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg)
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/wes-bos.png)
 
-Async/await patterns.
+JS Guru: Async/await patterns.
 
 ---
 
@@ -18,7 +18,7 @@ Async/await patterns.
 
 ## Brendan Eich
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/603270050556956672/T0mfRsil_400x400.png)
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/brendan-eich.png)
 
 Javascript inventor.
 
@@ -28,9 +28,9 @@ Javascript inventor.
 
 ## Sean Larkin
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/923008231689003008/ChLxnzy9_400x400.jpg)
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/sean-larkin.png)
 
-Webpack core team.
+Webpack core team. Webpack Architecture.
 
 ---
 
@@ -38,7 +38,7 @@ Webpack core team.
 
 ## Marcy Sutton
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/940071078243606528/mJDB-Oz9_400x400.jpg)
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/marcy-sutton.png)
 
 Accessibility advocate. [Talk](https://www.dotconferences.com/2017/12/marcy-sutton-enabling-users-in-client-rendered-applications) 
 
@@ -64,3 +64,34 @@ Co-creator of Django
 Software Engineer at LinkedIn
 
 ---
+
+@title[willis]
+
+## Trent Willis
+
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/trent-willis.png)
+
+Software Engineer at LinkedIn.
+
+---
+
+@title[watson]
+
+## Thomas Watson
+
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/trent-willis.png)
+
+Node.js developer at Elastic. Fun with Aircrafts
+[Talk](https://www.dotconferences.com/2017/12/feross-aboukhadijeh-the-most-annoying-website) 
+---
+
+@title[aboukhadijeh]
+
+## Feross Aboukhadijeh
+
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/feross-aboukhadijeh.png)
+
+Founder of WebTorrent, Standard JS & NodeFoo. [Talk](https://www.dotconferences.com/2017/12/feross-aboukhadijeh-the-most-annoying-website) 
+
+---
+
