@@ -2,7 +2,8 @@
 
 @title[init1]
 
-## The largest JavaScript conference in Europe
+## DotJS
+### The largest JavaScript conference in Europe
 
 
 ---
