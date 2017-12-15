@@ -1,5 +1,9 @@
 ---?image=http://2015.dotjs.io/images/logos/dotjs/big-logo.png
 
+@title[init1]
+
+---
+
 @title[wesbos]
 
 ## Wes Bos
@@ -30,14 +34,33 @@ Webpack core team.
 
 ---
 
-@title[lankin]
+@title[sutton]
 
 ## Marcy Sutton
 
 ![GitHub Logo](https://pbs.twimg.com/profile_images/940071078243606528/mJDB-Oz9_400x400.jpg)
 
-Accessibility advocate
+Accessibility advocate. [Talk](https://www.dotconferences.com/2017/12/marcy-sutton-enabling-users-in-client-rendered-applications) 
 
-[Talk](https://www.dotconferences.com/2017/12/marcy-sutton-enabling-users-in-client-rendered-applications) 
+
+---
+
+@title[holovaty]
+
+## Adrian Holovaty
+
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/adrian-holovaty.png)
+
+Co-creator of Django
+
+---
+
+@title[dale]
+
+## Tom Dale
+
+![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/tom-dale.png)
+
+Software Engineer at LinkedIn
 
 ---
