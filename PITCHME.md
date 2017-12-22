@@ -17,6 +17,65 @@
 JS Guru: Async/await patterns.
 
 ---
+@title[wesbos_2]
+
+Synchronous looking code, without that wait!
+
+```
+const makeRequest = () => {
+  return callAPromise()
+    .then(() => callAPromise())
+    .then(() => callAPromise())
+    .then(() => callAPromise())
+    .then(() => callAPromise())
+    .then(() => {
+      throw new Error("oops");
+    })
+}
+```
+
+---
+@title[wesbos_3]
+
+Synchronous looking code, without that wait!
+
+```
+const makeRequest = async () => {
+  await callAPromise()
+  await callAPromise()
+  await callAPromise()
+  await callAPromise()
+  await callAPromise()
+  throw new Error("oops");
+}
+```
+
+---
+@title[wesbos_4]
+
+Higher order function to catch errors!
+
+```
+const getOrders = async (req, res, next) {
+ const Orders.find({...});
+ 
+ if(!orders.length) throw Error('NotOrderFound');
+ // ...
+}
+
+const displayErrors = async (error, req, res, next) {
+  res.status(err.status || 500);
+  res.json(err).end();
+} 
+
+app.use(displayErrors);
+
+const catchErrors = (fn) => (req, res, next) => fn(req, res, next).catch(next);
+
+router.get('/orders', catchError(getOrders));
+```
+
+---
 
 @title[brendon]
 
