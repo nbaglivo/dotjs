@@ -52,10 +52,13 @@ Accessibility advocate. [Talk](https://www.dotconferences.com/2017/12/marcy-sutt
 @title[holovaty]
 
 ## Adrian Holovaty
+### A framework author's case against frameworks.
 
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/adrian-holovaty.png)
 
-Co-creator of Django
+Co-creator of Django.
+
+[Talk](https://www.dotconferences.com/2017/12/adrian-holovaty-a-framework-author-case-against-frameworks)
 
 ---
 
@@ -65,7 +68,7 @@ Co-creator of Django
 
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/tom-dale.png)
 
-Software Engineer at LinkedIn
+Software Engineer at LinkedIn.
 
 ---
 
@@ -75,7 +78,7 @@ Software Engineer at LinkedIn
 
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/trent-willis.png)
 
-Software Engineer at LinkedIn.
+Software Senior QA Engineer at Netflix.
 
 ---
 
@@ -86,16 +89,19 @@ Software Engineer at LinkedIn.
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/thomas-watson.png)
 
 Node.js developer at Elastic. Fun with Aircrafts
+
 [Talk](https://www.dotconferences.com/2017/12/feross-aboukhadijeh-the-most-annoying-website) 
 ---
 
 @title[aboukhadijeh]
 
 ## Feross Aboukhadijeh
+### The Most Annoying Website
 
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/feross-aboukhadijeh.png)
 
 Founder of WebTorrent, Standard JS & NodeFoo.
+
 [Talk](https://www.dotconferences.com/2017/12/feross-aboukhadijeh-the-most-annoying-website) 
 
 ---
