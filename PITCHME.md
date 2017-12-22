@@ -11,10 +11,10 @@
 @title[wesbos]
 
 ## Wes Bos
-
+### Async + Await 
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/wes-bos.png)
 
-JS Guru: Async/await patterns.
+JS Guru
 
 ---
 @title[wesbos_2]
@@ -57,7 +57,7 @@ Higher order function to catch errors!
 
 ```
 const getOrders = async (req, res, next) {
- const Orders.find({...});
+ const orders = Orders.find({...});
  
  if(!orders.length) throw Error('NotOrderFound');
  // ...
@@ -124,12 +124,36 @@ Co-creator of Django.
 @title[dale]
 
 ## Tom Dale
+### Glimmer
 
 ![GitHub Logo](https://s3-eu-central-1.amazonaws.com/static-dotconferences-com/speakers_images/tom-dale.png)
 
 Software Engineer at LinkedIn.
+Co-creator of Ember.js.
 
 ---
+
+@title[dale2]
+
+## Glimmer code
+
+```
+<h1>Welcome to the Glimmer Playground!</h1>
+<p>You have clicked the button {{count}} times.</p>
+<button onclick={{action increment}}>Click</button>
+
+import Component, { tracked } from '@glimmer/component';
+export default class extends Component {
+  @tracked count = 1;
+  increment() {
+    this.count++;
+  }
+}
+```
+
+---
+
+
 
 @title[willis]
 
